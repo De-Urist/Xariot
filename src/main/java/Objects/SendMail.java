@@ -31,8 +31,8 @@ public class SendMail implements Runnable{
 	}
 	
 	public void run(){	
-		//final String username = "ghoplite45@gmail.com";
-		//final String password = "xmzqxgniqlnqtzqe";
+		//final String username = 
+		//final String password = 
 		if(right.equals("1")) {
 			modRight = "Read and write";
 		}
